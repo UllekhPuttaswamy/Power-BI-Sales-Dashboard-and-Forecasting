@@ -41,8 +41,9 @@ This dashboard provides several key insights:
 This Power BI Sales Dashboard is a powerful tool for visualizing, analyzing, and forecasting sales data. By embedding it in a GitHub Pages site, it is easily accessible for stakeholders to interact with and gain valuable insights.
 
 ### How to Use
-- [Click here to view and interact with the dashboard](https://ullekhputtaswamy.github.io/Power-BI-Sales-Dashboard-and-Forecasting/).
+- [Click here to view and interact with the dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTIwYjMwZWMtNDQ4MS00NTk2LTlkZGEtNjcxYTQzOTE1YjU2IiwidCI6IjcyNmMyZWUzLWY3NmQtNDA1OS05OWNhLWUxOTI3YWIyMmM2NiJ9).
 - Explore the various visualizations and use the forecast to plan for the upcoming 30 days.
+# The above Link does not supprot the Maps feature.To access the Dashboard with Maps Please download the  
 
 ### Repository Contents
 - `index.html`: The HTML file used to embed the Power BI dashboard.
