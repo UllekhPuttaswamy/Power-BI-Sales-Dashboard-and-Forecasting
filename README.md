@@ -37,14 +37,18 @@ This dashboard provides several key insights:
   - Sales expected to be around **$10.7K** by the end of the next 30 days.
   - Profit expected to be around **$5.9K** during the same period.
 
-### Conclusion
-This Power BI Sales Dashboard is a powerful tool for visualizing, analyzing, and forecasting sales data. By embedding it in a GitHub Pages site, it is easily accessible for stakeholders to interact with and gain valuable insights.
-
 ### How to Use
 - [Click here to view and interact with the dashboard](https://app.powerbi.com/view?r=eyJrIjoiYTIwYjMwZWMtNDQ4MS00NTk2LTlkZGEtNjcxYTQzOTE1YjU2IiwidCI6IjcyNmMyZWUzLWY3NmQtNDA1OS05OWNhLWUxOTI3YWIyMmM2NiJ9).
 - Explore the various visualizations and use the forecast to plan for the upcoming 30 days.
-# The above Link does not supprot the Maps feature.To access the Dashboard with Maps Please download the  
+## The above Link does not support the Maps feature.To access the Dashboard with Maps Please download the .pbix file and open it using Power BI Desktop.  
 
-### Repository Contents
-- `index.html`: The HTML file used to embed the Power BI dashboard.
-- `README.md`: This documentation file explaining the project, steps taken, and insights gained.
+### Screenshots
+![Dashboard Screenshot Page1](Screenshot_Page1.png)
+![Dashboard Screenshot Page1](Screenshot_Page2.png)
+
+### Conclusion
+This Power BI Sales Dashboard is a powerful tool for visualizing, analyzing, and forecasting sales data. By embedding it in a GitHub Pages site, it is easily accessible for stakeholders to interact with and gain valuable insights.
+
+
+
+
